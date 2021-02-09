@@ -2,3 +2,9 @@
     background-color: #d3d3d3;
    
 }
+.container-section {
+    height: 200px;
+    background-color: rgb(255, 208, 199);
+    text-align: center;
+    padding: 70px;
+}
